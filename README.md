@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Gagandeep Singh  <br><br>💻 Fresher Full-Stack Web Developer  <br>⚡ Skilled in HTML, CSS, JavaScript, React, Node.js, Express  <br>🎨 Styling with Tailwind CSS  <br><br>🚀 Building responsive web apps and learning by doing  <br>📌 Open to internships and entry-level opportunities<br>
+👋 Hi, I’m Gagandeep Singh  <br><br>💻 Fresher Full-Stack Web Developer  <br>⚡ Skilled in HTML, CSS, JavaScript, React, Node.js, Express, MongoDb, SQL, NextJs, LangChain, Langraph, VectorDb, Embeddings, Redis, Docker  <br>🎨 Styling with Tailwind CSS  <br><br>🚀 Building responsive web apps and learning by doing  <br>📌 Open to internships and entry-level opportunities<br>
 
 
 ## 🌐 Socials:
