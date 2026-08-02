@@ -1,24 +1,154 @@
-# 💫 About Me:
-👋 Hi, I’m Gagandeep Singh  <br><br>💻 Fresher Full-Stack Web Developer  <br>⚡ Skilled in HTML, CSS, JavaScript, React, Node.js, Express, MongoDb, SQL, NextJs, LangChain, Langraph, VectorDb, Embeddings, Redis, Docker  <br>🎨 Styling with Tailwind CSS  <br><br>🚀 Building responsive web apps and learning by doing  <br>📌 Open to internships and entry-level opportunities<br>
+<h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
+<h3 align="center">
+Full Stack Developer • AI Engineer • Open Source Learner
+</h3>
 
+<p align="center">
+Building scalable Full Stack & AI-powered applications using modern web technologies.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_deep204) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagandeep-singh-kshu2323/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deep8686385@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deep23232323&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deep23232323&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deep23232323&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deep23232323&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=deep23232323&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deep23232323&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 Full Stack Developer passionate about building scalable applications
+- 🤖 Exploring AI Engineering, RAG Systems & LLM Applications
+- 🌱 Currently learning System Design, Distributed Systems & Cloud
+- 🧠 Solving Data Structures & Algorithms
+- 🚀 Interested in Backend Engineering & AI Infrastructure
+- 💼 Open to Full Stack Developer & AI Engineer opportunities
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gagandeep-singh-kshu2323/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:deep8686385@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://instagram.com/mr_deep204"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+</p>
+
+---
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+---
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+---
+
+## AI Engineering
+
+- LangChain
+- LangGraph
+- Retrieval Augmented Generation (RAG)
+- Vector Databases
+- Embeddings
+- Prompt Engineering
+- AI Agents
+- LLM Integration
+- Semantic Search
+
+---
+
+## DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,render" />
+</p>
+
+---
+
+## Backend Concepts
+
+- REST APIs
+- API Gateway
+- Authentication & JWT
+- Rate Limiting
+- Redis Caching
+- Microservices
+- System Design
+- WebSockets
+- Docker Containers
+
+---
+
+## Currently Building
+
+🚀 AI Powered Coding Assistant
+
+Features
+
+- AI Chat
+- AI Code Generation
+- AI Code Review
+- AI Debugging
+- AI Documentation
+- Multiple AI Agents
+- LangGraph Workflow
+- RAG Pipeline
+- Vector Search
+- Microservices Architecture
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=deep23232323&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=deep23232323&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deep23232323&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=deep23232323&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+## 📊 Contribution Graph
+
+[![Gagandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deep23232323&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## ⚡ Quote
+
+> "First solve the problem. Then write the code."
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories.
