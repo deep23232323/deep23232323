@@ -123,15 +123,7 @@ Features
 
 ---
 
-# 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=deep23232323&show_icons=true&theme=tokyonight&hide_border=true&count_private=true).
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=deep23232323&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deep23232323&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🏆 GitHub Trophies
 
